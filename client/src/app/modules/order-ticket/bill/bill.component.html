@@ -1,0 +1,104 @@
+<div class="w-[280px] text-white p-3 bg-zinc-900">
+  <h2 class="border-solid border-b-2 text-center text-[25px]">
+    GIỎ HÀNG CỦA BẠN
+  </h2>
+  <!--film name  -->
+  <div class="flex py-2 items-baseline gap-3">
+    <button class="mt-1 checkbox rounded-md bg-red-500 text-white" type="">
+      X
+    </button>
+    <p
+      class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis w-[150px]"
+    >
+      {{ this.movieName }}
+    </p>
+    <p class="flex ml-auto">75.000</p>
+  </div>
+  <!-- item bill -->
+  <!-- adult -->
+  <div *ngIf="adultQuantity !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      Adult-standar-2d
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ adultQuantity }}
+    </p>
+    <p class="flex ml-auto">{{ adultQuantity * 75000 | number : "1.0" }}</p>
+  </div>
+  <!-- child -->
+  <div *ngIf="childQuantity !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      Children-standar-2d
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ childQuantity }}
+    </p>
+    <p class="flex ml-auto">{{ childQuantity * 60000 | number : "1.0" }}</p>
+  </div>
+  <!-- cb1_22 -->
+  <div *ngIf="cb1_22 !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      combo1 small
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ cb1_22 }}
+    </p>
+    <p class="flex ml-auto">{{ cb1_22 * 76000 | number : "1.0" }}</p>
+  </div>
+  <!-- cb1_32 -->
+  <div *ngIf="cb1_32 !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      combo1 big
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ cb1_32 }}
+    </p>
+    <p class="flex ml-auto">{{ cb1_32 * 79000 | number : "1.0" }}</p>
+  </div>
+  <!-- cb2_32 -->
+  <div *ngIf="cb2_32 !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      Combo2 big
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ cb2_32 }}
+    </p>
+    <p class="flex ml-auto">{{ cb2_32 * 89000 | number : "1.0" }}</p>
+  </div>
+  <!-- cbf1_snack -->
+  <div *ngIf="cbf1_snack !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      Combo family1 snack
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ cbf1_snack }}
+    </p>
+    <p class="flex ml-auto">{{ cbf1_snack * 129000 | number : "1.0" }}</p>
+  </div>
+  <!-- cbf2_snack -->
+  <div *ngIf="cbf2_snack !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      Combo family2 snack
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ cbf2_snack }}
+    </p>
+    <p class="flex ml-auto">{{ cbf2_snack * 179000 | number : "1.0" }}</p>
+  </div>
+  <!-- cbf2_food -->
+  <div *ngIf="cbf2_food !== 0" class="flex py-2 items-center gap-3">
+    <p class="whitespace-nowrap overflow-hidden text-ellipsis w-[150px]">
+      Combo family2 ff
+    </p>
+    <p class="text-green-600 whitespace-nowrap overflow-hidden text-ellipsis">
+      {{ cbf2_food }}
+    </p>
+    <p class="flex ml-auto">{{ cbf2_food * 179000 | number : "1.0" }}</p>
+  </div>
+  <div
+    class="border-t-2 text-[25px] items-baseline border-white border-solid flex justify-between"
+  >
+    <h3>Tổng cộng</h3>
+    <p>{{ orderTickSer.getTotal() | number : "1.0" }}</p>
+  </div>
+</div>

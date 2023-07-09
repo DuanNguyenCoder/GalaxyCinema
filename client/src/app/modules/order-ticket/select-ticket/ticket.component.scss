@@ -1,0 +1,13 @@
+.triangle::before {
+  content: "";
+  position: absolute;
+  top: 10;
+  right: -2;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid white;
+  border-top: 10px solid transparent;
+}
+th,
+td {
+  color: white;
+}

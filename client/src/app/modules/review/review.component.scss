@@ -1,0 +1,63 @@
+.bg-img {
+  object-fit: cover;
+  position: relative;
+
+  &::after {
+    bottom: 0;
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 1),
+      rgba(0, 0, 0, 0)
+    );
+  }
+}
+
+.review-title ::before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  height: 5px;
+  width: 100px;
+  background-color: #ff0000;
+}
+
+.review-effect {
+  &:hover {
+    background-color: rgb(75, 85, 99, 0.4);
+  }
+}
+textarea {
+  background-color: transparent;
+  color: white;
+  border: 1px solid #ff0000;
+  &:focus {
+    background-color: transparent;
+    color: white;
+  }
+}
+
+/* Thanh cuộn */
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: #f1f1f1;
+}
+
+/* Nút cuộn */
+::-webkit-scrollbar-thumb {
+  background-color: red;
+  border-radius: 4px;
+}
+
+/* Vùng chứa thanh cuộn */
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+/* Góc của thanh cuộn */
+::-webkit-scrollbar-corner {
+  background-color: #f1f1f1;
+}

@@ -1,0 +1,53 @@
+.wrap_container {
+  text-align: center;
+  margin-top: 50px;
+  width: 100vh;
+  height: 100vh;
+}
+
+.main-container {
+  padding: 30px;
+  width: 1000px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.top-container {
+  outline: none;
+  border: none;
+  color: white;
+}
+
+.bigger-size-success {
+  font-size: 100px;
+  color: lightgreen;
+}
+
+.bigger-size-fail {
+  font-size: 100px;
+  color: gold;
+}
+
+.bottom-container {
+  margin-top: 30px;
+}
+
+button {
+  background-color: green;
+  border-radius: 15px;
+  padding: 15px;
+  border: 3px solid green;
+  color: white;
+}
+
+h1 {
+  margin-bottom: -15px;
+}
+
+p {
+  margin-top: 30px;
+  font-size: 20px;
+  color: white;
+}

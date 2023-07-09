@@ -1,0 +1,19 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Cấu hình kết nối đến cơ sở dữ liệu SQL Server -->
+        <property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="hibernate.connection.url">jdbc:sqlserver://localhost:1433;databaseName=POS_Galaxy</property>
+        <property name="hibernate.connection.username">sa</property>
+        <property name="hibernate.connection.password">123</property>
+        
+        <!-- Cấu hình reverse engineering -->
+       <property name="hibernate.reveng.file">src/main/resources/hibernate.reveng.xml</property>
+        <property name="hibernate.reveng.format_directory">src/main/java</property>
+        
+        <!-- Cấu hình các thuộc tính khác của Hibernate -->
+        <!-- ... -->
+    </session-factory>
+</hibernate-configuration>

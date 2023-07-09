@@ -1,0 +1,49 @@
+<div class="wrap_container">
+  <!-- thanh toan thanh cong -->
+  <div *ngIf="orderSuccess" class="main-container">
+    <div class="top-container">
+      <i
+        class="fa fa-check-circle-o bigger-size-success"
+        aria-hidden="true"
+      ></i>
+    </div>
+
+    <div class="bottom-container">
+      <h1 class="text-green-400">THANH TOÁN THÀNH CÔNG</h1>
+      <p>
+        bạn vui lòng kiểm tra thông tin vé trong phần gmail cá nhân đã đăng kí
+        với hệ thống.
+      </p>
+      <p>Mọi thắc mắc xin vui lòng liên hệ hotline để được hỗ trợ!</p>
+
+      <button
+        (click)="reidirect()"
+        class="hover:bg-green-400 transition duration-300"
+      >
+        Trở về trang chủ
+      </button>
+    </div>
+  </div>
+  <!-- thanh toan khong thanh cong -->
+  <div *ngIf="!orderSuccess" class="main-container">
+    <div class="top-container">
+      <i
+        class="fa-solid fa-triangle-exclamation bigger-size-fail"
+        aria-hidden="true"
+      ></i>
+    </div>
+
+    <div class="bottom-container">
+      <h1 class="text-yellow-500">THANH TOÁN KHÔNG THÀNH CÔNG</h1>
+      <p>bạn vui lòng kiểm tra thông tin thanh toán giao dịch</p>
+      <p>Mọi thắc mắc xin vui lòng liên hệ hotline để được hỗ trợ!</p>
+
+      <button
+        (click)="reidirect()"
+        class="hover:bg-green-600 transition duration-300"
+      >
+        Trở về trang chủ
+      </button>
+    </div>
+  </div>
+</div>

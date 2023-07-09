@@ -1,0 +1,15 @@
+<div>
+  <img
+    class="w-[400px] h-[500px] effect"
+    [src]="getBase64Image(dataMovie.image)"
+    alt=""
+  />
+  <h3 class="text-white py-[15px] text-center">{{ dataMovie.name }}</h3>
+  <a
+    (click)="redirect()"
+    class="inline-flex gap-[10px] hover:cursor-pointer items-center w-[100%] px-6 py-3 text-white bg-green-600 rounded-md hover:bg-green-500 justify-center font-bold hover:text-slate-200"
+  >
+    MUA VÉ
+    <i class="fa-solid fa-ticket fa-rotate-180"></i>
+  </a>
+</div>

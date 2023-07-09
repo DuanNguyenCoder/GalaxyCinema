@@ -1,0 +1,22 @@
+.shadow-cus {
+  -webkit-box-shadow: 3px 5px 21px 0px rgba(5, 12, 17, 1);
+}
+
+.parent {
+  background-image: url("https://www.bhdstar.vn/wp-content/themes/bhd/assets/images/movie-details-bg.jpg;");
+  background-size: contain;
+
+  .child {
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 1) 100%
+    );
+    .event {
+      width: 100%;
+      background-image: url("../../../assets/background/background-seat.png");
+
+      background-size: contain;
+    }
+  }
+}

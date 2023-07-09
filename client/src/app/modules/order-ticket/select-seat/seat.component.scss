@@ -1,0 +1,40 @@
+.selected {
+  background-color: orange;
+}
+.disabled {
+  background-color: rgb(107 114 128);
+}
+
+.seat-able {
+  text-align: center;
+  width: 30px;
+  margin: 8px;
+  background-color: gray;
+  color: white;
+  &:hover {
+    cursor: pointer;
+  }
+}
+.seat-ordered {
+  text-align: center;
+  width: 30px;
+  margin: 8px;
+  background-color: red;
+  color: white;
+}
+
+.selected {
+  background-color: orange;
+}
+
+.screen {
+  background: url(../../../../assets/images/screen.png) center no-repeat;
+  background-size: contain;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  top: 50px;
+  height: 100px;
+}

@@ -1,0 +1,88 @@
+<app-header></app-header>
+<div class="parent">
+  <div class="flex mt-[10vh] items-center py-10 flex-col child">
+    <!-- calendar -->
+    <div class="flex gap-[1px]">
+      <ng-container *ngIf="dateMovie.day !== 0">
+        <div
+          (click)="getMovieByDate(date)"
+          [ngClass]="[
+            dateMovie === date
+              ? 'bg-orange-500 transition duration-300 ease-in-out p-2 hover:cursor-pointer'
+              : 'bg-green-600 p-2 hover:cursor-pointer'
+          ]"
+          *ngFor="let date of dataDate"
+        >
+          <span class="block text-white text-[14px]">{{ date.dayOfWeek }}</span>
+          <span class="text-white block text-[12px]"
+            >{{ date.day }}-{{ date.month }}</span
+          >
+        </div>
+      </ng-container>
+
+      <ng-container *ngIf="dateMovie.day === 0">
+        <div
+          (click)="getMovieByDate(date)"
+          [ngClass]="[
+            i === 0
+              ? 'bg-orange-500 transition duration-300 ease-in-out p-2 hover:cursor-pointer'
+              : 'bg-green-600 p-2 hover:cursor-pointer'
+          ]"
+          *ngFor="let date of dataDate; let i = index"
+        >
+          <span class="block text-white text-[14px]">{{ date.dayOfWeek }}</span>
+          <span class="text-white block text-[12px]"
+            >{{ date.day }}-{{ date.month }}</span
+          >
+        </div>
+      </ng-container>
+    </div>
+    <!-- calendar -->
+    <!-- showTime -->
+    <ng-container>
+      <div class="flex my-[50px] flex-col gap-[30px]">
+        <div *ngFor="let movie of dataMovie" class="flex gap-[30px] mb-[50px]">
+          <img
+            class="w-[300px] h-[400px] shadow-cus"
+            [src]="getBase64Image(movie.image)"
+            alt="Hình ảnh"
+          />
+          <div class="flex flex-col gap-1">
+            <h2
+              class="text-white max-w-[70px] text-[25px] text-center p-1 bg-green-600"
+            >
+              2D SUB
+            </h2>
+            <h2
+              class="text-red-500 text-[25px] text-center border border-red-500"
+            >
+              {{ movie.ageLimited }}
+            </h2>
+          </div>
+          <div class="flex flex-col gap-2">
+            <h2 class="text-white">{{ movie.name }}</h2>
+            <h3 class="text-yellow-500">galaxy start 3.2</h3>
+            <div class="show-times flex justify-between gap-2">
+              <div class="flex gap-2 time">
+                <h2
+                  *ngFor="let time of movie.showTimes"
+                  (click)="orderTicket(time, movie)"
+                  class="hover:bg-green-600 text-[25px] hover:text-white hover:cursor-pointer transition duration-300 ease-in-out text-gray-500 py-2 px-1 bg-gray-900"
+                >
+                  {{ time.timeShow }}
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+    <!-- showTime -->
+    <!-- event -->
+    <div class="event"><app-event></app-event></div>
+    <!-- event -->
+  </div>
+</div>
+
+<app-footer></app-footer>
+<!--  -->

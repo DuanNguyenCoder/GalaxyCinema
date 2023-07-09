@@ -1,0 +1,7 @@
+.filter {
+  filter: drop-shadow(2px 4px 6px black);
+
+  &:hover {
+    box-shadow: 2px 4px 6px black;
+  }
+}

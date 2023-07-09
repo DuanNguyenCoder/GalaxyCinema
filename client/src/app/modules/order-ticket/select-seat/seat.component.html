@@ -1,0 +1,87 @@
+<div class="flex justify-between">
+  <!-- LEFT -->
+  <div class="left">
+    <div class="infor flex">
+      <img class="w-[300px] h-[400px]" [src]="byteToImage()" alt="wrong" />
+      <div class="detail-infor ml-[20px] flex flex-col">
+        <h2 class="text-green-600 text-xl">{{ dataMovie.name }}</h2>
+        <p>
+          Suất chiếu {{ dateFomatMovie.dayOfWeek }} ngày
+          {{ dateFomatMovie.day }} tháng {{ dateFomatMovie.month }}
+          {{ dataMovieShowTime.timeShow }}
+        </p>
+        <p>Galaxy Le Van Viet {{ dataMovieShowTime.screen }}</p>
+      </div>
+    </div>
+    <div class="my-[20px] warning">
+      <h2 class="text-red-600 text-xl font-medium text-green-600">Chọn Ghế</h2>
+      <p class="max-w-[600px]">
+        Vui lòng chọn ghế ở phía bên dưới. nếu muốn chọn loại ghế khác hoặc thay
+        đổi số lượng vé muốn mua thì bấm vào
+        <span class="text-green-600"> Bước 1 "chọn vé"</span> ở thanh công cụ ở
+        trên để quay trở lại giao diện chọn vé
+      </p>
+    </div>
+    <!--select seat  -->
+
+    <div>
+      <div class="guide items-center flex">
+        <div class="flex items-center justify-between">
+          <div class="w-5 h-5 bg-red-600"></div>
+          <h3 class="mx-2">Ghế đang chọn</h3>
+          <div class="w-5 h-5 bg-gray-500"></div>
+          <h3 class="mx-2">Ghế trống</h3>
+          <div class="w-5 h-5 bg-orange-500"></div>
+          <h3 class="mx-2">Ghế đã bán</h3>
+        </div>
+      </div>
+      <div
+        class="bg-transparent w-[100%] flex flex-col items-center select-seat"
+      >
+        <div class="screen m-auto font-normal">screen</div>
+        <div class="m-auto relative z-[2]">
+          <table class="border-separate">
+            <tr *ngFor="let row of rows">
+              <td
+                class="hover:cursor-pointer text-center w-[30px] h-[40px] bg-white text-black"
+              >
+                {{ row }}
+              </td>
+              <td
+                *ngFor="let item of seatsByRow(row)"
+                [ngClass]="{
+                  'seat-able': item.ordered === false,
+                  'seat-ordered': item.ordered === true
+                }"
+                [class.disabled]="!canSelectSeat(item)"
+                [class.selected]="item.selected"
+                (click)="toggleSeat(item)"
+              >
+                {{ item.number }}
+              </td>
+              <td
+                class="hover:cursor-pointer text-center w-[30px] bg-white text-black"
+              >
+                {{ row }}
+              </td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+  </div>
+  <!-- RIGHT -->
+  <div class="rigth">
+    <app-bill></app-bill>
+  </div>
+</div>
+
+<button
+  mat-raised-button
+  style="margin-top: 50px"
+  class="mt-28 text-white bg-green-600"
+  (click)="nextStep()"
+>
+  Chọn đồ ăn
+</button>

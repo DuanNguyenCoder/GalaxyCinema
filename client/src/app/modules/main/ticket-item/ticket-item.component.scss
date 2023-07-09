@@ -1,0 +1,13 @@
+.effect {
+  filter: drop-shadow(2px 4px 6px black);
+  border-radius: 20px;
+  &:hover {
+    cursor: pointer;
+    filter: brightness(0.5);
+    box-shadow: 2px 4px 6px black;
+  }
+}
+
+i {
+  transform: rotate(-45deg);
+}

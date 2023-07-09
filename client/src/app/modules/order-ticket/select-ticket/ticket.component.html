@@ -1,0 +1,128 @@
+<div class="flex">
+  <!-- LEFT -->
+  <div class="left">
+    <div class="infor flex">
+      <img class="w-[300px] h-[400px]" [src]="byteToImage()" alt="wrong" />
+      <div class="detail-infor ml-[20px] flex flex-col">
+        <h2 class="text-green-600 text-xl">{{ dataMovie.name }}</h2>
+        <p>
+          Suất chiếu {{ dateFomatMovie.dayOfWeek }} ngày
+          {{ dateFomatMovie.day }} tháng {{ dateFomatMovie.month }}
+          {{ dataMovieShowTime.timeShow }}
+        </p>
+        <p>Galaxy Le Van Viet {{ dataMovieShowTime.screen }}</p>
+      </div>
+    </div>
+    <div class="my-[20px] warning">
+      <h2 class="text-red-600 text-xl">Lưu Ý</h2>
+      <p>- Hãy chọn kỹ loại vé và số lượng bạn muốn mua</p>
+      <p>- Vui lòng chọn kỹ loại vé và số lượng quý khách muốn mua</p>
+    </div>
+    <!--  -->
+    <blockquote
+      class="text-2xl text-white font-semibold italic text-center text-slate-900"
+    >
+      Đến
+      <span
+        class="before:block before:absolute before:-inset-1 before:-skew-y-3 before:bg-pink-500 relative inline-block"
+      >
+        <span class="relative text-white">Galaxy</span>
+      </span>
+      để trải nghiệm cảm giác chân thật
+    </blockquote>
+    <!--  -->
+    <div class="select-ticket">
+      <div class="flex">
+        <span
+          class="p-[10px] relative w-[100px] triangle h-[40px] text-white bg-green-600"
+          >standard</span
+        >
+        <table
+          class="table-auto border-2 w-[620px] border-green-600 choose-ticket"
+        >
+          <thead>
+            <tr>
+              <th class="px-6 py-4">Vé</th>
+              <th class="px-6 py-4">Giá</th>
+              <th class="px-6 py-4">Số lượng</th>
+              <th class="px-6 py-4">Tổng</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- adult standar -->
+            <tr>
+              <td class="whitespace-nowrap px-6 pb-4">Adult-standar-2d</td>
+              <td class="whitespace-nowrap px-6 pb-4">75.000</td>
+              <td class="whitespace-nowrap px-6 pb-4">
+                <div class="flex gap-2 border-solid border-2 border-green-600">
+                  <button
+                    (click)="decrement(0)"
+                    mat-raised-button
+                    class="text-xl text-green-600 grow"
+                  >
+                    -
+                  </button>
+                  <span class="pt-2 text-center pt-[3px] grow">{{
+                    adultQuantity
+                  }}</span>
+                  <button
+                    (click)="increment(0)"
+                    mat-raised-button
+                    class="text-xl text-green-600 grow"
+                  >
+                    +
+                  </button>
+                </div>
+              </td>
+              <td class="whitespace-nowrap px-6 pb-4">
+                {{ adultTotal | number : "1.0" }}
+              </td>
+            </tr>
+            <!-- children standar -->
+            <tr>
+              <td class="whitespace-nowrap px-6 pb-4">children-standar-2d</td>
+              <td class="whitespace-nowrap px-6 pb-4">75.000</td>
+              <td class="whitespace-nowrap px-6 pb-4">
+                <div class="flex gap-2 border-solid border-2 border-green-600">
+                  <button
+                    (click)="decrement(1)"
+                    mat-raised-button
+                    class="text-xl text-green-600 grow"
+                  >
+                    -
+                  </button>
+                  <span class="pt-2 text-center pt-[3px] grow">{{
+                    childQuantity
+                  }}</span>
+                  <button
+                    (click)="increment(1)"
+                    mat-raised-button
+                    class="text-xl text-green-600 grow"
+                  >
+                    +
+                  </button>
+                </div>
+              </td>
+              <td class="whitespace-nowrap px-6 pb-4">
+                {{ childTotal | number : "1.0" }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <!-- RIGHT -->
+  <div class="rigth">
+    <app-bill></app-bill>
+  </div>
+</div>
+
+<button
+  mat-raised-button
+  class="mt-28 bg-green-600 text-white"
+  style="margin-top: 50px"
+  (click)="nextStep()"
+>
+  ĐẶT GHẾ
+</button>

@@ -1,0 +1,170 @@
+<div class="flex flex-col">
+  <!-- header -->
+  <app-header></app-header>
+  <!-- header -->
+  <div class="relative mt-[10vh] flex flex-col h-[1500px]">
+    <div
+      [style.background-image]="'url(' + base64Image + ')'"
+      class="bg-img bg-fixed bg-cover w-[100%] h-[500px]"
+    ></div>
+    <div class="footer-bg-img w-[100%] h-[500px] flex-grow bg-black"></div>
+
+    <div class="top-44 absolute left-[30vh]">
+      <!-- review -->
+      <div class="flex text-white h-[770px] justify-between gap-[30px]">
+        <img
+          class="w-[400px] h-[500px] object-cover bg-cover"
+          [src]="base64Image"
+          alt=""
+        />
+        <div>
+          <h3 class="text-[64px]">{{ dataMovie.name }}</h3>
+          <div class="flex gap-[25px] mt-[40px]">
+            <span
+              class="pt-[2%] text-center w-[50px] rounded-[50%] border-solid border-red-600 border-[5px]"
+              >{{ point }}</span
+            >
+            <span class="bg-red-600 text-white p-[15px] rounded-lg">{{
+              dataMovie.typefilm
+            }}</span>
+            <span class="bg-red-600 text-white p-[15px] rounded-lg">Movie</span>
+          </div>
+          <div class="mt-[40px]">
+            <span *ngIf="dataMovie.description === null"
+              >A paragraph generator is an AI-writing software that can take
+              minimal text input and create an entire paragraph. With recent
+              advances in natural language processing (NLP) and machine
+              learning, paragraph generators write in a way that is
+              indistinguishable from humans. For example, we decided to generate
+            </span>
+            <span>{{ dataMovie.description }} </span>
+          </div>
+          <div class="flex mt-[40px] gap-[30px]">
+            <i
+              class="fa-regular fa-heart text-[30px]"
+              style="color: #ff0000"
+            ></i>
+            <button
+              (click)="scrollToIframe()"
+              mat-raised-button
+              class="bg-red-600 ml-7 text-white"
+              type=""
+            >
+              XEM NGAY
+            </button>
+          </div>
+        </div>
+        <!-- review -->
+        <div>
+          <h5 class="under-score-cus inline-block p-3 relative text-[24px]">
+            Review
+          </h5>
+          <div class="max-h-[500px] overflow-x-hidden overflow-auto">
+            <div
+              *ngFor="let item of dataUserReview"
+              class="p-[16px] gap-[20px] items-center flex w-[800px] mb-5 review-effect"
+            >
+              <img
+                class="rounded-full object-cover w-[80px] h-[80px]"
+                src="https://msrealtors.org/wp-content/uploads/2018/11/no-user-image.gif"
+                alt=""
+              />
+              <div class="flex flex-col justify-center">
+                <h4 class="text-[20px]">{{ item.name }}</h4>
+                <div class="flex mb-2">
+                  <span class="text-[16px]">{{ item.rate }}</span
+                  ><span>/</span><span class="text-[14px] mt-[3px]">5</span
+                  ><mat-icon style="color: gold">star</mat-icon>
+                </div>
+                <h4 class="text-[12px]">{{ item.rateDate }}</h4>
+                <h4 class="text-[16px]">{{ item.comment }}</h4>
+              </div>
+            </div>
+          </div>
+
+          <hr class="bg-gray-400" />
+
+          <!-- user-review -->
+          <div class="pr-[16px] gap-[20px] flex w-[800px]">
+            <img
+              class="rounded-full object-cover w-[80px] h-[80px]"
+              src="../../../assets/images/bear1.png"
+              alt=""
+            />
+            <div class="flex flex-col flex-grow justify-center">
+              <h4
+                *ngIf="this.clientSer.dataClientLogin$.getValue().isLogin"
+                class="text-[20px]"
+              >
+                {{ this.clientSer.dataClientLogin$.getValue().name }}
+              </h4>
+              <h4
+                *ngIf="!this.clientSer.dataClientLogin$.getValue().isLogin"
+                class="text-[20px]"
+              >
+                User
+              </h4>
+
+              <!-- star rating -->
+              <div class="flex">
+                <button
+                  style="outline: none; color: gold"
+                  mat-icon-button
+                  *ngFor="let ratingId of ratingArr; index as i"
+                  [id]="'star_' + i"
+                  (click)="rating(i + 1)"
+                >
+                  <mat-icon>
+                    {{ showIcon(i) }}
+                  </mat-icon>
+                </button>
+              </div>
+              <!-- star rating -->
+              <form>
+                <div class="form-group">
+                  <textarea
+                    placeholder="Viết bình luận"
+                    class="form-control w-[100%]"
+                    id="exampleFormControlTextarea1"
+                    rows="3"
+                    [formControl]="myFormControl"
+                  ></textarea>
+                </div>
+
+                <button
+                  (click)="writeReview()"
+                  class="text-white bg-red-600"
+                  mat-raised-button
+                  type="submit"
+                >
+                  <mat-icon class="mr-2">send </mat-icon>Bình Luận
+                </button>
+              </form>
+            </div>
+          </div>
+          <!-- user-review -->
+        </div>
+        <!-- review -->
+      </div>
+
+      <!-- trailer -->
+      <div class="inline-block absolute top-[60vh] text-white">
+        <h3 class="relative inline-block p-3 under-score-cus">Trailer</h3>
+        <iframe
+          id="myIframe"
+          [src]="getLinkReviewYtb()"
+          width="560"
+          height="315"
+          frameborder="0"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <!-- trailer -->
+      <!-- review -->
+    </div>
+  </div>
+
+  <!-- footer -->
+  <app-footer></app-footer>
+  <!-- footer -->
+</div>

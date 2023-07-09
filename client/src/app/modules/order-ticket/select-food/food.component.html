@@ -1,0 +1,223 @@
+<div class="flex">
+  <!-- LEFT -->
+  <div>
+    <h3 CLASS="text-green-600">CHỌN THỰC PHẨM</h3>
+    <p>Chọn thực phẩm sau đó kiểm tra lại</p>
+    <div class="flex gap-3 max-w-[725px] flex-wrap">
+      <div class="flex flex-col items-center grow">
+        <img
+          class="bg-transparent"
+          src="../../../../../assets/images/CB1-small.png"
+          alt=""
+        />
+        <h4>Combo1 small 22OZ</h4>
+        <h4 class="text-center">76.000</h4>
+        <div class="m-auto">
+          <div class="flex gap-[10px] justify-center">
+            <button
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+              (click)="subQuantityCombo(orderTickSer.cb1_22$)"
+            >
+              -
+            </button>
+            <span class="text-white">{{
+              orderTickSer.cb1_22$.getValue()
+            }}</span>
+            <button
+              (click)="addQuantityCombo(orderTickSer.cb1_22$)"
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-col items-center grow">
+        <img
+          class="bg-transparent"
+          src="../../../../../assets/images/CB1-big.png"
+          alt=""
+        />
+        <h4>Combo1 big 32OZ</h4>
+        <h4 class="text-center">79.000</h4>
+        <div class="m-auto">
+          <div class="flex gap-[10px] justify-center">
+            <button
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+              (click)="subQuantityCombo(orderTickSer.cb1_32$)"
+            >
+              -
+            </button>
+            <span class="text-white">{{
+              orderTickSer.cb1_32$.getValue()
+            }}</span>
+            <button
+              (click)="addQuantityCombo(orderTickSer.cb1_32$)"
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-col items-center grow">
+        <img
+          class="bg-transparent"
+          src="../../../../../assets/images/CB2-big.png"
+          alt=""
+        />
+        <h4>Combo2 big 32OZ</h4>
+        <h4 class="text-center">92.000</h4>
+        <div class="m-auto">
+          <div class="flex gap-[10px] justify-center">
+            <button
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+              (click)="subQuantityCombo(orderTickSer.cb2_32$)"
+            >
+              -
+            </button>
+            <span class="text-white">{{
+              orderTickSer.cb2_32$.getValue()
+            }}</span>
+            <button
+              (click)="addQuantityCombo(orderTickSer.cb2_32$)"
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-col items-center grow">
+        <img
+          class="bg-transparent"
+          src="../../../../../assets/images/CBF-snack.png"
+          alt=""
+        />
+        <h4>Combo family1 snack</h4>
+        <h4 class="text-center">129.000</h4>
+        <div class="m-auto">
+          <div class="flex gap-[10px] justify-center">
+            <button
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+              (click)="subQuantityCombo(orderTickSer.cbf1_snack$)"
+            >
+              -
+            </button>
+            <span class="text-white">{{
+              orderTickSer.cbf1_snack$.getValue()
+            }}</span>
+            <button
+              (click)="addQuantityCombo(orderTickSer.cbf1_snack$)"
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-col items-center grow">
+        <img
+          class="bg-transparent"
+          src="../../../../../assets/images/CBF2-snack.png"
+          alt=""
+        />
+        <h4>Combo family2 snack</h4>
+        <h4 class="text-center">179.000</h4>
+        <div class="m-auto">
+          <div class="flex gap-[10px] justify-center">
+            <button
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+              (click)="subQuantityCombo(orderTickSer.cbf2_snack$)"
+            >
+              -
+            </button>
+            <span class="text-white">{{
+              orderTickSer.cbf2_snack$.getValue()
+            }}</span>
+            <button
+              (click)="addQuantityCombo(orderTickSer.cbf2_snack$)"
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex flex-col items-center grow">
+        <img
+          class="bg-transparent"
+          src="../../../../../assets/images/CBF2-ff.png"
+          alt=""
+        />
+        <h4>Combo family2 food</h4>
+        <h4 class="text-center">179.000</h4>
+        <div class="m-auto">
+          <div class="flex gap-[10px] justify-center">
+            <button
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+              (click)="subQuantityCombo(orderTickSer.cbf2_food$)"
+            >
+              -
+            </button>
+            <span class="text-white">{{
+              orderTickSer.cbf2_food$.getValue()
+            }}</span>
+            <button
+              (click)="addQuantityCombo(orderTickSer.cbf2_food$)"
+              style="background-color: green; outline: none; color: white"
+              mat-raised-button
+              type=""
+            >
+              +
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- LEFT -->
+  <!-- RIGHT -->
+  <div>
+    <app-bill></app-bill>
+  </div>
+  <!-- right -->
+</div>
+
+<!-- redirect -->
+<button
+  mat-raised-button
+  style="margin-top: 50px"
+  class="text-white bg-green-600"
+  (click)="nextStep()"
+>
+  next step
+</button>
+<!-- redirect -->

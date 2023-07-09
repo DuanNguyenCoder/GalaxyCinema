@@ -1,0 +1,14 @@
+<ul class="breadcrumb bc3x">
+  <li *ngFor="let item of dataBread; index as i">
+    <a
+      [ngClass]="[
+        i + 1 <= currentStep
+          ? 'step-active transition duration-300'
+          : 'step-valiable'
+      ]"
+      (click)="stepBread(i, item.url)"
+    >
+      {{ i + 1 }}. {{ item.label }}</a
+    >
+  </li>
+</ul>

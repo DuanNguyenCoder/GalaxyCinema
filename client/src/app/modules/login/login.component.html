@@ -1,0 +1,171 @@
+<mat-tab-group>
+  <!-- login -->
+  <mat-tab label="Đăng nhập">
+    <div class="flex justify-center">
+      <form
+        [formGroup]="formData"
+        (ngSubmit)="onSubmit()"
+        class="w-[100%] p-6 bg-white shadow-md rounded-lg"
+      >
+        <h2 class="text-2xl font-bold mb-4">Đăng nhập</h2>
+
+        <div class="flex flex-col">
+          <mat-form-field class="mb-4">
+            <mat-label>Email</mat-label>
+            <input
+              (input)="validateEmpty()"
+              formControlName="userNameOrEmailAddress"
+              matInput
+              placeholder="Nhập email của bạn"
+              type="email"
+              required
+            />
+          </mat-form-field>
+
+          <mat-form-field class="mb-4">
+            <mat-label>Mật khẩu</mat-label>
+            <input
+              (input)="validateEmpty()"
+              formControlName="password"
+              matInput
+              placeholder="Nhập mật khẩu của bạn"
+              type="password"
+              required
+            />
+          </mat-form-field>
+        </div>
+
+        <div class="flex justify-between items-center mb-4">
+          <input type="checkbox" class="mr-2" />
+          <span> Nhớ mật khẩu</span>
+          <a href="#" class="text-blue-500 hover:underline">Quên mật khẩu?</a>
+        </div>
+
+        <button
+          [disabled]="isDisable"
+          type="submit"
+          mat-raised-button
+          color="primary"
+          class="w-full"
+        >
+          Đăng nhập
+        </button>
+      </form>
+    </div>
+  </mat-tab>
+  <!-- login -->
+  <!-- register -->
+  <mat-tab label="Đăng ký">
+    <form (submit)="register()">
+      <div class="p-4">
+        <h2 class="text-2xl font-bold mb-4">Đăng ký</h2>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="fullname">Họ và tên</label>
+          <input
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            type="text"
+            id="fullname"
+            name="fullname"
+            [(ngModel)]="name"
+            required
+          />
+          <!-- <span *ngIf="!name" class="text-red-500"
+            >Vui lòng nhập họ và tên</span
+          > -->
+        </div>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="phone">Số điện thoại</label>
+          <input
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            type="text"
+            id="phone"
+            name="phone"
+            [(ngModel)]="phone"
+            required
+          />
+        </div>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="gender">Giới tính</label>
+          <select
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            id="gender"
+            name="gender"
+            [(ngModel)]="gender"
+            required
+          >
+            <option value="">Chọn giới tính</option>
+            <option value="1">Nam</option>
+            <option value="0">Nữ</option>
+          </select>
+        </div>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="email">Email</label>
+          <input
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            type="email"
+            id="email"
+            name="email"
+            [(ngModel)]="mail"
+            required
+          />
+        </div>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="password">Mật khẩu</label>
+          <input
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            type="password"
+            id="password"
+            name="password"
+            [value]="checkPasswordMatch()"
+            [(ngModel)]="passwords"
+            required
+          />
+        </div>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="confirm-password"
+            >Xác nhận mật khẩu</label
+          >
+          <input
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            type="password"
+            id="confirm-password"
+            name="confirm-password"
+            [value]="checkPasswordMatch()"
+            [(ngModel)]="confirmPass"
+            required
+          />
+          <span *ngIf="passwordMismatch" class="text-red-500"
+            >Mật khẩu không trùng khớp</span
+          >
+        </div>
+
+        <div class="mb-4">
+          <label class="block mb-1" for="birthdate">Ngày tháng năm sinh</label>
+          <input
+            class="border border-gray-300 px-4 py-2 rounded-md w-full"
+            type="date"
+            id="birthdate"
+            name="birthdate"
+            [(ngModel)]="birthday"
+            required
+          />
+        </div>
+
+        <button
+          [disabled]="passwordMismatch"
+          type="submit"
+          class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded"
+        >
+          Đăng ký
+        </button>
+      </div>
+    </form>
+  </mat-tab>
+  <!-- register -->
+</mat-tab-group>
