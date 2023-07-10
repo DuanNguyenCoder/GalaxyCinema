@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.props" Condition="Exists('..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.props')" />
+  <Import Project="..\packages\cef.redist.x86.114.2.10\build\cef.redist.x86.props" Condition="Exists('..\packages\cef.redist.x86.114.2.10\build\cef.redist.x86.props')" />
+  <Import Project="..\packages\cef.redist.x64.114.2.10\build\cef.redist.x64.props" Condition="Exists('..\packages\cef.redist.x64.114.2.10\build\cef.redist.x64.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3396D13A-6654-4916-AF0F-5FB5743D0A32}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POS_Galaxy</RootNamespace>
+    <AssemblyName>POS Galaxy</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CefSharp, Version=114.2.100.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=MSIL">
+      <HintPath>..\packages\CefSharp.Common.114.2.100\lib\net452\CefSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.Core, Version=114.2.100.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=MSIL">
+      <HintPath>..\packages\CefSharp.Common.114.2.100\lib\net452\CefSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.WinForms, Version=114.2.100.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=MSIL">
+      <HintPath>..\packages\CefSharp.WinForms.114.2.100\lib\net462\CefSharp.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI, Version=1.8.0.0, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.3.2, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.2\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Core.WinForms, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Core.WinForms.20.2.0.36\lib\net46\Syncfusion.Core.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Licensing.20.2.0.36\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfInput.WinForms, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.SfInput.WinForms.20.2.0.36\lib\net46\Syncfusion.SfInput.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Base, Version=20.2460.0.36, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>..\packages\Syncfusion.Shared.Base.20.2.0.36\lib\net46\Syncfusion.Shared.Base.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zxing, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComboItem_UI\selectFastFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectFastFood.Designer.cs">
+      <DependentUpon>selectFastFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectSnack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectSnack.Designer.cs">
+      <DependentUpon>selectSnack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectLy.Designer.cs">
+      <DependentUpon>selectLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboType.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\ProductsDAO.cs" />
+    <Compile Include="DTO\Products.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_UI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_UI\Pay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment_UI\Pay.Designer.cs">
+      <DependentUpon>Pay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_UI\PrintBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment_UI\PrintBill.Designer.cs">
+      <DependentUpon>PrintBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POS_galaxyDataSet.cs">
+      <DependentUpon>POS_galaxyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="POS_galaxyDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>POS_galaxyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\ComboPopcorn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\ComboPopcorn.Designer.cs">
+      <DependentUpon>ComboPopcorn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectPopcorn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboItem_UI\selectPopcorn.Designer.cs">
+      <DependentUpon>selectPopcorn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboItem_UI\detailCombo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboItem_UI\detailCombo.Designer.cs">
+      <DependentUpon>detailCombo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\Drink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\Drink.Designer.cs">
+      <DependentUpon>Drink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\drink_chai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\drink_chai.Designer.cs">
+      <DependentUpon>drink_chai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\drink_lon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\drink_lon.Designer.cs">
+      <DependentUpon>drink_lon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\fastfood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\fastfood.Designer.cs">
+      <DependentUpon>fastfood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\popcorn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\popcorn.Designer.cs">
+      <DependentUpon>popcorn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\promotion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\promotion.Designer.cs">
+      <DependentUpon>promotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\snack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\snack.Designer.cs">
+      <DependentUpon>snack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products_UI\Voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products_UI\Voucher.Designer.cs">
+      <DependentUpon>Voucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ticket_UI\seat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket_UI\seat.Designer.cs">
+      <DependentUpon>seat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ticket_UI\ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ticket_UI\ticket.Designer.cs">
+      <DependentUpon>ticket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\bill_item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\bill_item.Designer.cs">
+      <DependentUpon>bill_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\combo_famlily.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\combo_famlily.Designer.cs">
+      <DependentUpon>combo_famlily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\combo_nestle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\combo_nestle.Designer.cs">
+      <DependentUpon>combo_nestle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\drink_lon_chai_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\drink_lon_chai_uc.Designer.cs">
+      <DependentUpon>drink_lon_chai_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\drink_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\drink_uc.Designer.cs">
+      <DependentUpon>drink_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\fastFood_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\fastFood_uc.Designer.cs">
+      <DependentUpon>fastFood_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\film_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\film_uc.Designer.cs">
+      <DependentUpon>film_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\findBarcode.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\findBarcode.Designer.cs">
+      <DependentUpon>findBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\item_printReciept.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\item_printReciept.Designer.cs">
+      <DependentUpon>item_printReciept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\momopay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\momopay.Designer.cs">
+      <DependentUpon>momopay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\selectFastFood_Item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\selectFastFood_Item.Designer.cs">
+      <DependentUpon>selectFastFood_Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\selectSnack_item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\selectSnack_item.Designer.cs">
+      <DependentUpon>selectSnack_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\showTime_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\showTime_uc.Designer.cs">
+      <DependentUpon>showTime_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\snack_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\snack_uc.Designer.cs">
+      <DependentUpon>snack_uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\ticket_Item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\ticket_Item.Designer.cs">
+      <DependentUpon>ticket_Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_Controls\voucher_uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User_Controls\voucher_uc.Designer.cs">
+      <DependentUpon>voucher_uc.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ComboItem_UI\selectFastFood.resx">
+      <DependentUpon>selectFastFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboItem_UI\selectSnack.resx">
+      <DependentUpon>selectSnack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboItem_UI\selectLy.resx">
+      <DependentUpon>selectLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_UI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_UI\Pay.resx">
+      <DependentUpon>Pay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_UI\PrintBill.resx">
+      <DependentUpon>PrintBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\ComboPopcorn.resx">
+      <DependentUpon>ComboPopcorn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboItem_UI\selectPopcorn.resx">
+      <DependentUpon>selectPopcorn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboItem_UI\detailCombo.resx">
+      <DependentUpon>detailCombo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\Drink.resx">
+      <DependentUpon>Drink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\drink_chai.resx">
+      <DependentUpon>drink_chai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\drink_lon.resx">
+      <DependentUpon>drink_lon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\fastfood.resx">
+      <DependentUpon>fastfood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\popcorn.resx">
+      <DependentUpon>popcorn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\promotion.resx">
+      <DependentUpon>promotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\snack.resx">
+      <DependentUpon>snack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products_UI\Voucher.resx">
+      <DependentUpon>Voucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Ticket_UI\seat.resx">
+      <DependentUpon>seat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ticket_UI\ticket.resx">
+      <DependentUpon>ticket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\bill_item.resx">
+      <DependentUpon>bill_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\combo_famlily.resx">
+      <DependentUpon>combo_famlily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\combo_nestle.resx">
+      <DependentUpon>combo_nestle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\drink_lon_chai_uc.resx">
+      <DependentUpon>drink_lon_chai_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\drink_uc.resx">
+      <DependentUpon>drink_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\fastFood_uc.resx">
+      <DependentUpon>fastFood_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\film_uc.resx">
+      <DependentUpon>film_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\findBarcode.resx">
+      <DependentUpon>findBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\item_printReciept.resx">
+      <DependentUpon>item_printReciept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\momopay.resx">
+      <DependentUpon>momopay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\selectFastFood_Item.resx">
+      <DependentUpon>selectFastFood_Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\selectSnack_item.resx">
+      <DependentUpon>selectSnack_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\showTime_uc.resx">
+      <DependentUpon>showTime_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\snack_uc.resx">
+      <DependentUpon>snack_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\ticket_Item.resx">
+      <DependentUpon>ticket_Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_Controls\voucher_uc.resx">
+      <DependentUpon>voucher_uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="POS_galaxyDataSet.xsc">
+      <DependentUpon>POS_galaxyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="POS_galaxyDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>POS_galaxyDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="POS_galaxyDataSet.xss">
+      <DependentUpon>POS_galaxyDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\combo_bapnuoc.png" />
+    <Content Include="Image\drink.png" />
+    <Content Include="Image\Event.png" />
+    <Content Include="Image\fastfood.png" />
+    <Content Include="Image\movie_combo.png" />
+    <Content Include="Image\popcorn.png" />
+    <Content Include="Image\promottion.png" />
+    <Content Include="Image\snack.png" />
+    <Content Include="Image\voucher.png" />
+    <None Include="Resources\MoMo_Logo.png" />
+    <None Include="Resources\avengers-endgame-whatever-it-takes-i74250.jpg" />
+    <None Include="Resources\Ke-Cap-Mat-Trang-Despicable-Me-2010-poster.jpg" />
+    <None Include="Resources\diago.webp" />
+    <None Include="Resources\haunting.jpg" />
+    <None Include="Resources\poster-phim-an-y %283%29.jpg" />
+    <None Include="Resources\matbiet.jpg" />
+    <None Include="Resources\combo_bapnuoc.png" />
+    <None Include="Resources\flash_full1.png" />
+    <None Include="Resources\flash_full.png" />
+    <None Include="Resources\flash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Poster\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\cef.redist.x64.114.2.10\build\cef.redist.x64.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cef.redist.x64.114.2.10\build\cef.redist.x64.props'))" />
+    <Error Condition="!Exists('..\packages\cef.redist.x86.114.2.10\build\cef.redist.x86.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\cef.redist.x86.114.2.10\build\cef.redist.x86.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.targets'))" />
+  </Target>
+  <Import Project="..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.targets" Condition="Exists('..\packages\CefSharp.Common.114.2.100\build\CefSharp.Common.targets')" />
+</Project>

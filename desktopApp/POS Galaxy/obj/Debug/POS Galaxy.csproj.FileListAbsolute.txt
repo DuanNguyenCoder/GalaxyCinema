@@ -1,0 +1,250 @@
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe.config
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\bin\Debug\Guna.UI2.dll
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.AssemblyReference.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Form1.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Properties.Resources.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.GenerateResource.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CopyComplete
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.ComboPopcorn.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Drink.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_chai.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_lon.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_lon_chai_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.ticket.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.film_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.showTime_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.seat.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_famlily.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_nestle.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.fastfood.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.snack.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Voucher.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.fastFood_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.snack_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.voucher_uc.resources
+C:\Users\duann\source\repos\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.bill_item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe.config
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Guna.UI2.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.AssemblyReference.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Form1.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.ComboPopcorn.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Drink.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_chai.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_lon.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.fastfood.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.snack.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Voucher.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Properties.Resources.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.seat.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.ticket.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.bill_item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_famlily.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_nestle.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_lon_chai_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.fastFood_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.film_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.showTime_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.snack_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.voucher_uc.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.GenerateResource.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CopyComplete
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectLy.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.selectPopcorn.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.detailCombo.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.ticket_Item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.promotion.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Login_UI.Login.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Manager.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Interop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\Interop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.ResolveComReference.cache
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.test.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Pay.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Payment_UI.PrintBill.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.item_printReciept.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectFastFood.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectSnack.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.selectSnack_item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.presentation.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.presentation.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.momopay.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.selectFastFood_Item.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.findBarcode.resources
+C:\Users\duann\source\repos\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.popcorn.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe.config
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Guna.UI2.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Core.WinForms.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.SfInput.WinForms.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.presentation.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Core.WinForms.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.SfInput.WinForms.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Syncfusion.Shared.Base.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\zxing.presentation.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\Interop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.AssemblyReference.cache
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\Interop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.ResolveComReference.cache
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectFastFood.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectSnack.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.ComboItem_UI.selectLy.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Form1.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Login_UI.Login.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Manager.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Pay.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Payment_UI.PrintBill.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.ComboPopcorn.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.selectPopcorn.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.detailCombo.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Drink.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_chai.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.drink_lon.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.fastfood.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.popcorn.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.promotion.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.snack.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Products_UI.Voucher.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Properties.Resources.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.seat.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.Ticket_UI.ticket.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.bill_item.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_famlily.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.combo_nestle.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_lon_chai_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.drink_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.fastFood_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.film_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.findBarcode.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.item_printReciept.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.momopay.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.selectFastFood_Item.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.selectSnack_item.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.showTime_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.snack_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.ticket_Item.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS_Galaxy.User_Controls.voucher_uc.resources
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.GenerateResource.cache
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CoreCompileInputs.cache
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.csproj.CopyComplete
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.exe
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\obj\Debug\POS Galaxy.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\chrome_100_percent.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\chrome_200_percent.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\chrome_elf.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\d3dcompiler_47.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\icudtl.dat
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\libcef.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\libEGL.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\libGLESv2.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\LICENSE.txt
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\af.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\am.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ar.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\bg.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\bn.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ca.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\cs.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\da.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\de.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\el.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\en-GB.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\en-US.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\es-419.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\es.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\et.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\fa.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\fi.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\fil.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\fr.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\gu.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\he.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\hi.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\hr.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\hu.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\id.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\it.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ja.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\kn.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ko.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\lt.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\lv.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ml.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\mr.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ms.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\nb.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\nl.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\pl.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\pt-BR.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\pt-PT.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ro.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ru.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\sk.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\sl.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\sr.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\sv.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\sw.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ta.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\te.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\th.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\tr.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\uk.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\ur.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\vi.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\zh-CN.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\locales\zh-TW.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\README.txt
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\resources.pak
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\snapshot_blob.bin
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\v8_context_snapshot.bin
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\vk_swiftshader.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\vk_swiftshader_icd.json
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\vulkan-1.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.Core.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.WinForms.dll
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.Core.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.Core.xml
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\duann\source\repos\đồ án tốt nghiệp\đồ án thực tập\POS Galaxy\POS Galaxy\bin\Debug\CefSharp.WinForms.xml

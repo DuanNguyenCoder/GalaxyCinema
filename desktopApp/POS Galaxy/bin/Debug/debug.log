@@ -1,0 +1,604 @@
+[0623/015201.109:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/015206.407:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/015207.537:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/015207.537:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/015207.892:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/015207.892:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/015207.933:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/015630.953:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/015633.136:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/015634.634:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/015634.634:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/015634.865:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/015634.865:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/015635.001:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/015657.034:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/015658.139:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0623/015658.180:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0623/015658.181:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0623/015658.181:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0623/015658.181:WARNING:browser_info.cc(309)] Returning a speculative frame for 21474836488 [5,8]
+[0623/015658.513:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738377 [8,9]
+[0623/015658.598:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738377 [8,9]
+[0623/015658.599:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738377 [8,9]
+[0623/015658.599:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738377 [8,9]
+[0623/015658.600:WARNING:browser_info.cc(309)] Returning a speculative frame for 34359738377 [8,9]
+[0623/015658.610:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/015658.865:INFO:CONSOLE(4295)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/af4cfc59/jsbin/desktop_polymer.vflset/desktop_polymer.js (4295)
+[0623/015700.130:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/015700.137:WARNING:spdy_session.cc(3491)] Received HEADERS for invalid stream 3
+[0623/015700.762:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[0623/015700.765:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[0623/015700.769:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[0623/015700.770:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[0623/015701.056:WARNING:browser_info.cc(309)] Returning a speculative frame for 38654705672 [9,8]
+[0623/015701.805:INFO:CONSOLE(4295)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/af4cfc59/jsbin/desktop_polymer.vflset/desktop_polymer.js (4295)
+[0623/015703.390:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/015703.390:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/015705.028:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/015705.028:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/015709.224:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/020626.722:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/020629.064:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/020630.666:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020630.667:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020630.927:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020630.927:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020631.072:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/020705.526:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/020707.423:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/020708.719:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020708.719:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020708.940:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020708.940:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020709.013:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/020722.435:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/020723.498:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/020724.975:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020724.976:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020725.389:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020725.389:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020725.489:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/020832.201:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/020833.128:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/020834.439:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020834.440:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/020834.647:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020834.647:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/020834.691:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/021306.573:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/021319.355:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/021320.196:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/021320.416:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/021320.416:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/021320.607:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/021320.607:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/021539.676:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/021621.777:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/021622.703:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/021622.704:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/021622.882:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/021622.882:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/021622.989:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/022035.240:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/022040.185:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022041.306:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/022041.306:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/022041.471:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/022041.471:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/022041.511:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/022145.816:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/022154.826:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022155.458:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/022155.624:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/022155.624:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/022155.859:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/022155.860:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/022156.954:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022157.387:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/022157.387:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/022157.552:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/022157.552:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/022157.777:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022158.055:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/022158.055:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/022158.229:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/022158.229:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/022200.633:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022200.991:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/022200.991:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/022201.229:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/022201.229:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/022203.749:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022204.041:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/022204.041:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/022204.236:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/022204.236:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/022206.398:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022206.714:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/022206.715:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/022206.886:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/022206.886:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/022208.587:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022208.903:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/022208.903:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/022209.065:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/022209.065:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/022214.165:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/962985656/?backend=innertube&cname=56&cver=20230613&foc_id=J6nMHaJPZvsJ-HmUmj1SeA&label=followon_view&ptype=no_rmkt&random=69293543&cv_attributed=0' (redirected from 'https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=56&cver=20230613&foc_id=J6nMHaJPZvsJ-HmUmj1SeA&label=followon_view&ptype=no_rmkt&random=69293543') from origin 'https://www.youtube.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://www.youtube.com/embed/qEVUtrk8_B4 (0)
+[0623/022251.606:WARNING:sync_reader.cc(175)] ASR: No room in socket buffer.: The pipe is being closed. (0xE8)
+[0623/022251.624:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022251.962:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/022251.962:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/022252.117:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/022252.118:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/022253.350:INFO:CONSOLE(0)] "Access to XMLHttpRequest at 'https://googleads.g.doubleclick.net/pagead/viewthroughconversion/962985656/?backend=innertube&cname=56&cver=20230613&foc_id=CthuyVDqVcKowswr1JJaOQ&label=followon_view&ptype=no_rmkt&random=845350971&cv_attributed=0' (redirected from 'https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=56&cver=20230613&foc_id=CthuyVDqVcKowswr1JJaOQ&label=followon_view&ptype=no_rmkt&random=845350971') from origin 'https://www.youtube.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.", source: https://www.youtube.com/embed/OGZfMMVpU2M (0)
+[0623/022322.352:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022322.797:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/022322.798:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/022326.073:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022326.490:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/022326.491:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/022326.727:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/022326.727:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/022328.218:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022328.487:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0623/022328.487:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0623/022845.877:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/022859.036:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022859.925:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/022859.925:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/022900.158:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/022900.158:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/022900.228:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/022903.815:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022904.323:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/022904.323:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/022904.517:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/022904.517:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/022909.238:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022909.571:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/022909.571:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/022909.768:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/022909.769:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/022910.708:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022911.040:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/022911.040:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/022915.066:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022915.390:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/022915.390:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/022915.611:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/022915.611:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/022916.109:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022916.471:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/022916.471:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/022918.529:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/022918.840:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/022918.841:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/022918.997:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/022918.997:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/023446.930:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/023447.254:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/023447.254:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/023447.353:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/023447.353:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/023543.270:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/023543.614:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0623/023543.614:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0623/023543.694:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/023543.694:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/023549.033:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/023549.333:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/023549.333:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/023549.499:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0623/023549.499:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0623/023549.979:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/023550.289:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/023550.289:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/023550.399:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/023550.399:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/023550.776:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/023551.025:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/023551.025:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/023551.200:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0623/023551.200:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0623/024211.632:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/024222.539:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/024223.186:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/024223.357:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/024223.357:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/024223.541:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/024223.541:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/024227.376:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/024227.839:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/024227.839:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/024403.425:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/024409.553:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/024410.146:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/024410.406:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/024410.406:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/024410.591:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/024410.592:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/024410.914:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/024411.479:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/024411.479:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/024411.709:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/024411.709:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/024512.658:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/024512.968:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/024512.968:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/024513.071:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/024513.071:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/024522.209:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/024522.526:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/024522.526:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/024522.706:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/024522.706:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/025913.195:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/025920.186:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/025920.841:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/025921.055:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/025921.055:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/025921.212:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/025921.212:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/025926.758:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/025927.251:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/025927.251:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/025927.433:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/025927.433:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/025931.412:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/025931.781:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/025931.781:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/025931.916:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/025931.916:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/025932.139:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/025932.453:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/025932.454:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/025932.956:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/025933.296:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/025933.296:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/025933.502:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/025933.502:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/025945.784:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/025946.089:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/025946.090:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/030427.195:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/031447.146:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/031526.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/031527.062:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/031527.062:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/031527.323:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/031527.323:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/031527.380:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/031652.186:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/031652.894:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/031652.894:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/031653.113:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/031653.113:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/032031.082:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/032031.505:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/032031.506:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/032031.673:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/032031.673:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/032116.971:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/032129.193:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/032129.767:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/032129.970:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/032129.970:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/032130.164:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/032130.165:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/032135.598:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/032136.380:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/032136.381:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/032136.567:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/032136.567:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/032139.467:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/032139.828:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/032139.828:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/032140.005:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/032140.005:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/033139.213:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/033218.455:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/033219.529:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/033219.529:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/033219.861:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/033219.861:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/033219.911:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/033850.810:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/034050.466:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/034655.387:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/040809.162:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/041606.664:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/093302.747:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/093312.542:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093313.247:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/093313.447:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/093313.447:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/093313.604:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/093313.604:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/093313.992:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093314.563:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/093314.564:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/093314.725:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/093314.725:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/093318.434:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093318.764:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/093318.764:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/093318.924:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/093318.924:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/093324.343:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093324.706:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/093324.706:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/093324.876:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/093324.877:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/093325.801:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093326.090:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/093326.090:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/093326.245:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/093326.245:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/093326.912:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093327.201:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/093327.201:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/093327.437:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/093327.437:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/093327.652:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093327.958:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/093327.958:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/093328.087:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/093328.087:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/093328.505:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093328.761:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0623/093328.761:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0623/093328.995:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/093328.995:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/093329.541:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093329.835:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/093329.835:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/093329.953:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0623/093329.953:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0623/093330.350:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093330.634:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/093330.634:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/093330.816:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/093330.817:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/093332.176:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/093332.436:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/093332.436:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0623/093332.576:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0623/093332.576:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0623/095439.972:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/095443.984:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/095444.810:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/095444.810:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/095445.012:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/095445.012:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/095445.036:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/102023.423:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/102044.267:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/102044.937:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/102045.253:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/102045.253:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/102045.409:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/102045.409:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/121702.089:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/121720.710:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/121721.698:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/121721.698:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0623/121721.878:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/121721.879:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0623/121721.901:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0623/122051.774:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122052.303:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/122052.304:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0623/122052.458:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/122052.462:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0623/122056.117:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122056.433:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/122056.433:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0623/122056.581:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/122056.582:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0623/122057.347:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122057.653:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/122057.653:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0623/122057.835:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/122057.835:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0623/122059.108:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122059.386:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/122059.386:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0623/122059.573:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/122059.573:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0623/122100.093:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122100.419:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/122100.419:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0623/122100.512:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/122100.512:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0623/122100.804:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122101.106:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/122101.106:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0623/122101.259:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/122101.260:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0623/122101.614:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122101.967:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0623/122101.967:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0623/122102.102:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/122102.102:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0623/122102.773:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122103.071:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/122103.071:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0623/122103.258:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0623/122103.259:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0623/122103.965:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0623/122104.255:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/122104.256:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0623/122104.385:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/122104.385:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0623/140026.148:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0623/140125.004:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/081352.086:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/081447.536:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/081448.550:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/081448.823:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/081448.823:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/081448.973:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/081448.974:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/083816.738:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/090327.082:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/090342.935:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/090344.507:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090344.507:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090344.676:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090344.676:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090344.719:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/090502.312:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/090510.127:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/090511.083:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/090511.314:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090511.314:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090511.507:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090511.508:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090531.642:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/090540.690:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/090541.512:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/090541.909:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090541.910:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090542.173:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090542.173:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090655.213:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/090728.969:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/090729.867:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/090730.167:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090730.167:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/090730.373:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/090730.373:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/095919.407:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/100048.891:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/100050.438:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/100050.601:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/100050.602:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/100050.853:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/100050.853:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/100219.819:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/100230.179:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/100231.215:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/100231.439:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/100231.439:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/100231.924:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/100231.924:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/100234.511:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/100235.000:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0626/100235.000:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0626/100235.186:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0626/100235.187:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0626/100238.638:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/100239.068:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0626/100239.068:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0626/100239.308:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0626/100239.308:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0626/154314.409:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/154335.522:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154336.603:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/154336.603:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/154336.748:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/154336.748:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/154336.827:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/154523.102:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/154538.334:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154539.186:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/154539.392:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/154539.392:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/154539.588:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/154539.589:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/154540.446:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154540.895:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0626/154540.895:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0626/154541.084:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0626/154541.084:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0626/154542.555:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154542.869:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0626/154542.869:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0626/154543.008:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0626/154543.009:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0626/154553.596:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154553.941:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0626/154553.941:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0626/154554.131:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0626/154554.132:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0626/154554.737:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154555.059:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0626/154555.059:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0626/154555.209:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0626/154555.209:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0626/154638.693:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/154639.094:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0626/154639.094:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0626/154639.198:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0626/154639.198:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0626/155335.233:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/155359.096:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/155400.061:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/155400.061:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/155400.241:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/155400.241:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/155400.265:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/160148.824:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0626/160210.611:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160211.605:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/160211.605:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869188 [4,4] will be ignored
+[0626/160211.925:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/160211.925:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869189 [4,5] will be ignored
+[0626/160211.978:WARNING:obfuscated_file_util.cc(1402)] Failed to get origin+type directory: { uri: filesystem:https://www.youtube.com/temporary/, storage key: { origin: https://www.youtube.com, top-level site: https://youtube.com, nonce: <null>, ancestor chain bit: Same-Site }, bucket id: 1 } error:-4
+[0626/160228.745:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160229.295:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0626/160229.295:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869190 [4,6] will be ignored
+[0626/160229.400:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0626/160229.400:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869191 [4,7] will be ignored
+[0626/160230.022:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160230.316:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0626/160230.316:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869192 [4,8] will be ignored
+[0626/160230.545:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0626/160230.545:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869193 [4,9] will be ignored
+[0626/160231.037:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160231.421:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0626/160231.421:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869194 [4,10] will be ignored
+[0626/160231.543:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0626/160231.543:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869195 [4,11] will be ignored
+[0626/160235.446:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160235.800:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0626/160235.800:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869196 [4,12] will be ignored
+[0626/160235.982:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0626/160235.982:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869197 [4,13] will be ignored
+[0626/160237.455:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160237.761:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0626/160237.761:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869198 [4,14] will be ignored
+[0626/160237.880:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0626/160237.880:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869199 [4,15] will be ignored
+[0626/160252.510:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160252.814:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0626/160252.814:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869200 [4,16] will be ignored
+[0626/160253.055:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0626/160253.055:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869201 [4,17] will be ignored
+[0626/160303.991:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160304.396:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0626/160304.396:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869202 [4,18] will be ignored
+[0626/160304.593:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0626/160304.593:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869203 [4,19] will be ignored
+[0626/160304.827:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160305.211:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0626/160305.211:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869204 [4,20] will be ignored
+[0626/160305.434:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0626/160305.434:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869205 [4,21] will be ignored
+[0626/160309.952:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160310.242:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0626/160310.242:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869206 [4,22] will be ignored
+[0626/160310.458:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0626/160310.458:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869207 [4,23] will be ignored
+[0626/160310.668:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0626/160311.067:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0626/160311.068:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869208 [4,24] will be ignored
+[0626/160311.224:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0626/160311.224:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 17179869209 [4,25] will be ignored
+[0627/003616.740:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0627/003656.739:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0627/004123.166:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0627/100432.710:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
